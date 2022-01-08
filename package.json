@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node -r dotenv/config dist/application/app.js",
     "dev": "npx tsnd -r dotenv/config src/application/app.ts",
-    "test": "test"
+    "test": "test",
+    "postinstall": "tsc"
   },
   "repository": {
     "type": "git",
