@@ -22,6 +22,7 @@
     "cors": "^2.8.5",
     "create-react-app": "^4.0.3",
     "dotenv": "^10.0.0",
+    "dropbox-v2-api": "^2.4.52",
     "express": "^4.17.1"
   },
   "devDependencies": {
